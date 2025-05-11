@@ -1,0 +1,671 @@
+# Copyright (C) 2025 WP Radiant
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Cricket Club League 1.0.8\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/cricket-club-league\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-02-04T12:34:41+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: cricket-club-league\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Cricket Club League"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://www.wpradiant.net/products/free-cricket-wordpress-theme"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "The Cricket Club League theme is designed to showcase the Cricket Club League highlights and news by creating a stunning website. The theme’s is specifically designed for cricket academy, cricket blog, Cricket Leagues, Sports Clubs, Cricket Teams, Sports Tournaments, Cricket Associations, Match Scheduling, Sports Events, Cricket Coaching, Cricket Academies, Local Leagues, cricket club, cricket equipment, cricket merchandise, cricket news, online store, professional cricket and etc. The theme is designed keeping in mind the overall need to impart the message to support and broadcast Cricket Club League around the world. Its sleek and modern design captures the attention of every visitor. Event countdowns, live score updates, and athlete profiles further drive user interactivity so that visitors can stay current with the latest results and schedules. There are customizable sections for medal tallies, news feeds, or even interactive maps of venues that add an informational edge and make navigation easy for fans. Social sharing integration allows real-time updates to be shared so users can join in the excitement and connect with others across the world. Responsive design gives an optimum viewing experience across devices, from desktop to smartphones. High-resolution images that are retina-ready images of sports website, sports club, tournament complement smooth animations and transitions in a very delightful and engaging way, thus providing for a visually appealing and immersive user experience. Moreover, SEO optimization available within the theme makes the content related to the Games reach more audiences and generate more traffic, improving visibility. This theme can also be used by different Sports websites such as hockey, soccer, badminton, boxing, crossfit, fitness, gym, hiking, yoga and etc. The theme can be integrated with the popular WordPress Plugins such as Classic Editor, Contact Form7, Yoast SEO, Woocommerce, and more of theme. Cricket Club League Demo Link: https://preview.wpradiant.net/cricket-club-league/"
+msgstr ""
+
+#. Author of the theme
+#: style.css
+#: patterns/footer-default.php:93
+msgid "WP Radiant"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.wpradiant.net/"
+msgstr ""
+
+#: get-started/getstart.php:8
+msgid "https://wordpress.org/support/theme/cricket-club-league/"
+msgstr ""
+
+#: get-started/getstart.php:9
+msgid "https://wordpress.org/support/theme/cricket-club-league/reviews/#new-post"
+msgstr ""
+
+#: get-started/getstart.php:10
+msgid "https://preview.wpradiant.net/tutorial/cricket-club-league-free/"
+msgstr ""
+
+#: get-started/getstart.php:11
+#: get-started/notice.php:3
+msgid "https://www.wpradiant.net/products/cricket-club-wordpress-theme"
+msgstr ""
+
+#: get-started/getstart.php:12
+msgid "https://preview.wpradiant.net/cricket-club-league/"
+msgstr ""
+
+#: get-started/getstart.php:13
+msgid "https://preview.wpradiant.net/tutorial/cricket-club-league-pro/"
+msgstr ""
+
+#: get-started/getstart.php:57
+msgid "Buy Now"
+msgstr ""
+
+#: get-started/getstart.php:60
+msgid "Demo"
+msgstr ""
+
+#: get-started/getstart.php:63
+msgid "Documentation"
+msgstr ""
+
+#: get-started/getstart.php:84
+msgid "Secondary menu"
+msgstr ""
+
+#: get-started/getstart.php:85
+msgid "About"
+msgstr ""
+
+#: get-started/getstart.php:87
+msgid "Compare free Vs Pro"
+msgstr ""
+
+#: get-started/getstart.php:89
+msgid "Changelog"
+msgstr ""
+
+#: get-started/getstart.php:110
+msgid "Free Theme Directives"
+msgstr ""
+
+#: get-started/getstart.php:113
+msgid "This article will walk you through the different phases of setting up and handling your WordPress website."
+msgstr ""
+
+#: get-started/getstart.php:117
+msgid "Free Documentation"
+msgstr ""
+
+#: get-started/getstart.php:124
+msgid "Full Site Editing"
+msgstr ""
+
+#: get-started/getstart.php:127
+msgid "We have used Full Site Editing which will help you preview your changes live and fast."
+msgstr ""
+
+#: get-started/getstart.php:131
+msgid "Use Site Editor"
+msgstr ""
+
+#: get-started/getstart.php:138
+msgid "Leave us a review"
+msgstr ""
+
+#: get-started/getstart.php:140
+msgid "We would love to hear your feedback."
+msgstr ""
+
+#: get-started/getstart.php:144
+msgid "Review"
+msgstr ""
+
+#: get-started/getstart.php:152
+msgid "Help &amp; Support"
+msgstr ""
+
+#: get-started/getstart.php:155
+msgid "If you have any question/feedback regarding theme, please post in our official support forum."
+msgstr ""
+
+#: get-started/getstart.php:159
+msgid "Get Support"
+msgstr ""
+
+#: get-started/getstart.php:177
+msgid "Want to know whats been happening with the latest changes?"
+msgstr ""
+
+#: get-started/getstart.php:238
+msgid "Compare Free Vs Pro"
+msgstr ""
+
+#: get-started/getstart.php:242
+msgid "Theme Features"
+msgstr ""
+
+#: get-started/getstart.php:243
+msgid "Free Theme"
+msgstr ""
+
+#: get-started/getstart.php:244
+msgid "Pro Theme"
+msgstr ""
+
+#: get-started/getstart.php:249
+msgid "Responsive Design"
+msgstr ""
+
+#: get-started/getstart.php:254
+msgid "Painless Setup"
+msgstr ""
+
+#: get-started/getstart.php:259
+msgid "Color Options"
+msgstr ""
+
+#: get-started/getstart.php:264
+msgid "Premium site demo"
+msgstr ""
+
+#: get-started/getstart.php:269
+msgid "Multiple Block Layout"
+msgstr ""
+
+#: get-started/getstart.php:274
+msgid "Premium Patterns"
+msgstr ""
+
+#: get-started/getstart.php:279
+msgid "Multiple Fonts"
+msgstr ""
+
+#: get-started/getstart.php:284
+msgid "Slider Block"
+msgstr ""
+
+#: get-started/getstart.php:289
+msgid "Post Listing Block"
+msgstr ""
+
+#: get-started/getstart.php:294
+msgid "WooCommerce Filter Block"
+msgstr ""
+
+#: get-started/getstart.php:299
+msgid "Gallery Block"
+msgstr ""
+
+#: get-started/getstart.php:304
+msgid "Post Carousel Block"
+msgstr ""
+
+#: get-started/getstart.php:311
+msgid "Buy It Now"
+msgstr ""
+
+#: get-started/notice.php:5
+msgid "https://www.wpradiant.net/products/wordpress-theme-bundle/"
+msgstr ""
+
+#: get-started/notice.php:47
+msgid "Welcome to Cricket Club League Company"
+msgstr ""
+
+#: get-started/notice.php:48
+msgid "Enhance Your Website Development with Radiant Blocks!!"
+msgstr ""
+
+#: get-started/notice.php:51
+msgid "Effortlessly craft websites for any niche with Radiant Blocks! Experience seamless functionality and stunning responsiveness as you enhance your digital presence with Block WordPress Themes. Start building your ideal website today!"
+msgstr ""
+
+#: get-started/notice.php:53
+msgid "Getting started"
+msgstr ""
+
+#: get-started/notice.php:55
+msgid "Buy Now "
+msgstr ""
+
+#: get-started/notice.php:57
+msgid "Get Bundle"
+msgstr ""
+
+#: inc/block-pattern.php:61
+msgid "Cricket Club League Patterns"
+msgstr ""
+
+#: inc/block-style.php:28
+msgid "Borders"
+msgstr ""
+
+#: inc/customizer.php:17
+msgid "Cricket Club League Pro"
+msgstr ""
+
+#: inc/customizer.php:18
+msgid "Upgrade Pro"
+msgstr ""
+
+#: patterns/404-page.php
+msgctxt "Pattern title"
+msgid "404 Page"
+msgstr ""
+
+#: patterns/404-page.php:11
+msgid "404 Page"
+msgstr ""
+
+#: patterns/404-page.php:15
+msgid "404"
+msgstr ""
+
+#: patterns/404-page.php:19
+msgid "Unfortunately we can’t find that page."
+msgstr ""
+
+#: patterns/404-page.php:23
+msgid "The page you are looking for doesnt exist or has been moved. Try another url or go to the site homepage."
+msgstr ""
+
+#: patterns/banner.php
+msgctxt "Pattern title"
+msgid "Banner"
+msgstr ""
+
+#: patterns/banner.php:11
+msgid "Banner"
+msgstr ""
+
+#: patterns/banner.php:24
+msgid "Welcome Back!"
+msgstr ""
+
+#: patterns/banner.php:29
+msgid "CRICKET IS A GAME WITH HAPPYNESS"
+msgstr ""
+
+#: patterns/banner.php:33
+msgid "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+msgstr ""
+
+#: patterns/banner.php:38
+msgid "Know more"
+msgstr ""
+
+#: patterns/footer-default.php
+msgctxt "Pattern title"
+msgid "Footer Default"
+msgstr ""
+
+#: patterns/footer-default.php:11
+msgid "Footer Default"
+msgstr ""
+
+#: patterns/footer-default.php:17
+msgid "About Us"
+msgstr ""
+
+#: patterns/footer-default.php:21
+#: patterns/gallery-section.php:28
+msgid "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+msgstr ""
+
+#: patterns/footer-default.php:37
+msgid "Sports"
+msgstr ""
+
+#: patterns/footer-default.php:55
+msgid "Helps"
+msgstr ""
+
+#: patterns/footer-default.php:71
+msgid "Contact Us"
+msgstr ""
+
+#: patterns/footer-default.php:75
+msgid "support@example.com"
+msgstr ""
+
+#: patterns/footer-default.php:79
+msgid "+123 456 7890"
+msgstr ""
+
+#: patterns/footer-default.php:83
+msgid "123, Red Hills, Chicago,IL, USA"
+msgstr ""
+
+#: patterns/footer-default.php:93
+msgid "Cricket WordPress Theme "
+msgstr ""
+
+#: patterns/footer-default.php:93
+msgid " By "
+msgstr ""
+
+#: patterns/footer-default.php:93
+msgid "Proudly powered by"
+msgstr ""
+
+#: patterns/footer-default.php:93
+msgid " WordPress "
+msgstr ""
+
+#: patterns/gallery-section.php
+msgctxt "Pattern title"
+msgid "Gallery Section"
+msgstr ""
+
+#: patterns/gallery-section.php:11
+msgid "Gallery Section"
+msgstr ""
+
+#: patterns/gallery-section.php:24
+msgid "Our Match Gallery"
+msgstr ""
+
+#: patterns/primary-sidebar.php
+msgctxt "Pattern title"
+msgid "Primary Sidebar"
+msgstr ""
+
+#: patterns/primary-sidebar.php:11
+msgid "Sidebar Section"
+msgstr ""
+
+#: patterns/primary-sidebar.php:17
+msgid "Search"
+msgstr ""
+
+#: patterns/primary-sidebar.php:29
+msgid "Latest Posts"
+msgstr ""
+
+#: patterns/primary-sidebar.php:55
+msgid "Archieve"
+msgstr ""
+
+#: patterns/primary-sidebar.php:67
+msgid "Category"
+msgstr ""
+
+#: patterns/primary-sidebar.php:79
+msgid "Social"
+msgstr ""
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "Search Page"
+msgstr ""
+
+#: patterns/search.php:11
+msgid "Search Page"
+msgstr ""
+
+#: styles/blue.json
+msgctxt "Style variation name"
+msgid "Lite Green"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: styles/purple.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Accent"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: styles/purple.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: styles/purple.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Fourground"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: styles/purple.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secbackground"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: styles/purple.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "primary"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: styles/purple.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: styles/purple.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "tertiary"
+msgstr ""
+
+#: styles/green.json
+msgctxt "Style variation name"
+msgid "Red"
+msgstr ""
+
+#: styles/purple.json
+msgctxt "Style variation name"
+msgid "Purple"
+msgstr ""
+
+#: styles/yellow.json
+msgctxt "Style variation name"
+msgid "Yellow"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar Products"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blog Page (Sidebar on Left)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blog Page (Sidebar on Right)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Grid Layout(Archieve posts)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single post (No Sidebar)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single post (Sidebar on Left)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page (Sidebar on Right)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page (Sidebar on Left)"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "primary and background"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "primary and secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "primary and tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and background"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical secondary to tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical secondary to background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical tertiary to background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal secondary to background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal background to secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal tertiary to background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal background to tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Teko"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Abel"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Poppins"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Tiny"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Upper Heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Content Heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra large (Recent Post Title)"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge (Display)"
+msgstr ""
